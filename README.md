@@ -17,7 +17,7 @@ Note
 2. Save the result of the symaccess command to a file.
  # symaccess -sid <SYMID> list view -detail > <FileName>.xml
 
-3. Launch acl_xml2excel_vXX.XX.exe.
+3. Launch acl_xml2excel_vXX.XX.exe
 
 4. Select the xml file from "Browse" and click "Create excel file".
 
