@@ -28,7 +28,7 @@ Note
 You can download the converted file to exe in pyinstaller for Windows 10 (64bit).  
 After unzipping, run acl_xml2excel_vXX.XX.exe.  
 
-[rp4vm_RestCmdRefTool_v0.90.zip](https://github.com/ss95089/rp4vm_RestCmdRefTool/raw/main/dist/rp4vm_RestCmdRefTool_v0.90.zip)  
+[acl_xml2excel_v00.02.zip](https://github.com/ss95089/pmax_acl_xml2excel/raw/main/dist/acl_xml2excel_v00.02.zip)  
 
 ---
 ### Development environment
