@@ -6,7 +6,7 @@ Note
 * InitiatorGroup assumes that consistent_lun is enabled.
 
 ## Operating Procedure
-<p>
+```
 1. Set the environment variables for SolutionsEnabler.
 (Windows)
  > set SYMCLI_OUTPUT_MODE=XML
@@ -19,4 +19,4 @@ Note
 3. Select the xml file from "Browse" and click "Create excel file".
 
 4. An Excel file is generated in the same directory as the xml file.
-</p>
+```
