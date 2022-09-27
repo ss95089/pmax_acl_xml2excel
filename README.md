@@ -5,7 +5,8 @@ Note
 * StorageGroup and SymDev in the Excel file do not display the same row by row.
 * InitiatorGroup assumes that consistent_lun is enabled.
 
-## Operating Procedure
+---
+### Operating Procedure
 ```
 1. Set the environment variables for SolutionsEnabler.
 (Windows)
@@ -20,3 +21,13 @@ Note
 
 4. An Excel file is generated in the same directory as the xml file.
 ```
+---
+### download
+You can download the converted file to exe in pyinstaller for Windows 10 (64bit).  
+After unzipping, run acl_xml2excel_vXX.XX.exe.  
+
+
+[rp4vm_RestCmdRefTool_v0.90.zip](https://github.com/ss95089/rp4vm_RestCmdRefTool/raw/main/dist/rp4vm_RestCmdRefTool_v0.90.zip)  
+---
+### development environment
+Python 3.8.9  
