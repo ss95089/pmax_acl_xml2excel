@@ -16,7 +16,9 @@ Note
 
 2. Save the result of the symaccess command to a file.
  # symaccess -sid <SYMID> list view -detail > <FileName>.xml
-
+    or
+ # symaccess -file <ACL_BLKFILE> list view -detail > <FileName>.xml
+ 
 3. Launch acl_xml2excel_vXX.XX.exe
 
 4. Select the xml file from "Browse" and click "Create excel file".
@@ -29,7 +31,7 @@ You can download the converted file to exe in pyinstaller for Windows 10 (64bit)
 After unzipping, run acl_xml2excel_vXX.XX.exe.  
 
 [acl_xml2excel_v00.02.zip](https://github.com/ss95089/pmax_acl_xml2excel/raw/main/dist/acl_xml2excel_v00.02.zip)  
-
+[acl_xml2excel_v00.04.zip](https://github.com/ss95089/pmax_acl_xml2excel/raw/main/dist/acl_xml2excel_v00.04.zip)  
 ---
 ### Screenshot
 ![screenshot](screenshot/img01.jpg)
