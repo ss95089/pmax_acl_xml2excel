@@ -30,7 +30,6 @@ Note
 You can download the converted file to exe in pyinstaller for Windows 10 (64bit).  
 After unzipping, run acl_xml2excel_vXX.XX.exe.  
 
-[acl_xml2excel_v00.02.zip](https://github.com/ss95089/pmax_acl_xml2excel/raw/main/dist/acl_xml2excel_v00.02.zip)  
 [acl_xml2excel_v00.04.zip](https://github.com/ss95089/pmax_acl_xml2excel/raw/main/dist/acl_xml2excel_v00.04.zip)  
 ---
 ### Screenshot
